@@ -1,0 +1,25 @@
+{
+  "name": "login",
+  "version": "1.0.0",
+  "description": "A login page build with Html, CSS/Sass, Vanilla JS and Node/Express JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/AlexanderWilliamEvans/Login.git"
+  },
+  "author": "Alexander Evans",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexanderWilliamEvans/Login/issues"
+  },
+  "homepage": "https://github.com/AlexanderWilliamEvans/Login#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-sass": "^4.13.1",
+    "nodemon": "^2.0.2",
+    "sass": "^1.25.0"
+  }
+}
