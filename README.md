@@ -1,3 +1,3 @@
 
 
-# A login page build with hTML, css/sass, Vanilla JS and Node/Express JS.
+# A login page build with Html, css/sass, Vanilla JS and Node/Express JS.
